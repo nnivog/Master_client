@@ -1,0 +1,10 @@
+flask
+requests
+beautifulsoup4
+numpy
+pandas
+urllib3
+nepse-data-api
+gunicorn
+reportlab
+openpyxl

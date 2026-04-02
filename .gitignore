@@ -1,0 +1,12 @@
+# Data files — back these up separately, never commit to git
+*.db
+cache/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
